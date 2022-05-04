@@ -1,0 +1,14 @@
+.Card {
+    width: 20%;
+    height: 25%;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CardText {
+    font-size: 30px;
+}
